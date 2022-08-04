@@ -1,0 +1,7 @@
+D:\.NET\C# Intermediate Concepts\C# Collections\Sorted Dictionary\SortedDictionary\bin\Debug\SortedDictionary.exe.config
+D:\.NET\C# Intermediate Concepts\C# Collections\Sorted Dictionary\SortedDictionary\bin\Debug\SortedDictionary.exe
+D:\.NET\C# Intermediate Concepts\C# Collections\Sorted Dictionary\SortedDictionary\bin\Debug\SortedDictionary.pdb
+D:\.NET\C# Intermediate Concepts\C# Collections\Sorted Dictionary\SortedDictionary\obj\Debug\SortedDictionary.csproj.CoreCompileInputs.cache
+D:\.NET\C# Intermediate Concepts\C# Collections\Sorted Dictionary\SortedDictionary\obj\Debug\SortedDictionary.exe
+D:\.NET\C# Intermediate Concepts\C# Collections\Sorted Dictionary\SortedDictionary\obj\Debug\SortedDictionary.pdb
+D:\.NET\C# Intermediate Concepts\C# Collections\Sorted Dictionary\SortedDictionary\obj\Debug\SortedDictionary.csproj.AssemblyReference.cache

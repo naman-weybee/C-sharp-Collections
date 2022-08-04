@@ -1,0 +1,7 @@
+D:\.NET\C# Intermediate Concepts\C# Collections\Queue\Queue\bin\Debug\Queue.exe.config
+D:\.NET\C# Intermediate Concepts\C# Collections\Queue\Queue\bin\Debug\Queue.exe
+D:\.NET\C# Intermediate Concepts\C# Collections\Queue\Queue\bin\Debug\Queue.pdb
+D:\.NET\C# Intermediate Concepts\C# Collections\Queue\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+D:\.NET\C# Intermediate Concepts\C# Collections\Queue\Queue\obj\Debug\Queue.exe
+D:\.NET\C# Intermediate Concepts\C# Collections\Queue\Queue\obj\Debug\Queue.pdb
+D:\.NET\C# Intermediate Concepts\C# Collections\Queue\Queue\obj\Debug\Queue.csproj.AssemblyReference.cache

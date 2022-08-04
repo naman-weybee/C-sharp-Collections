@@ -1,0 +1,7 @@
+D:\.NET\C# Intermediate Concepts\C# Collections\List\ListPractice\ListPractice\bin\Debug\ListPractice.exe.config
+D:\.NET\C# Intermediate Concepts\C# Collections\List\ListPractice\ListPractice\bin\Debug\ListPractice.exe
+D:\.NET\C# Intermediate Concepts\C# Collections\List\ListPractice\ListPractice\bin\Debug\ListPractice.pdb
+D:\.NET\C# Intermediate Concepts\C# Collections\List\ListPractice\ListPractice\obj\Debug\ListPractice.csproj.AssemblyReference.cache
+D:\.NET\C# Intermediate Concepts\C# Collections\List\ListPractice\ListPractice\obj\Debug\ListPractice.csproj.CoreCompileInputs.cache
+D:\.NET\C# Intermediate Concepts\C# Collections\List\ListPractice\ListPractice\obj\Debug\ListPractice.exe
+D:\.NET\C# Intermediate Concepts\C# Collections\List\ListPractice\ListPractice\obj\Debug\ListPractice.pdb

@@ -1,0 +1,7 @@
+D:\.NET\C# Intermediate Concepts\C# Collections\List\List\bin\Debug\List.exe.config
+D:\.NET\C# Intermediate Concepts\C# Collections\List\List\bin\Debug\List.exe
+D:\.NET\C# Intermediate Concepts\C# Collections\List\List\bin\Debug\List.pdb
+D:\.NET\C# Intermediate Concepts\C# Collections\List\List\obj\Debug\List.csproj.AssemblyReference.cache
+D:\.NET\C# Intermediate Concepts\C# Collections\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+D:\.NET\C# Intermediate Concepts\C# Collections\List\List\obj\Debug\List.exe
+D:\.NET\C# Intermediate Concepts\C# Collections\List\List\obj\Debug\List.pdb
